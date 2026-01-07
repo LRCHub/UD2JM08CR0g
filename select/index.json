@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "CO-個性",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-01-07T19:29:15.620547Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CO-個性",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_CO-個性_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
